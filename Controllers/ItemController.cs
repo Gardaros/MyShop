@@ -35,7 +35,76 @@ public class ItemController : Controller
             return NotFound();
         return View(item);
     }
+
+    [HttpGet]
+    public IActionResult Create()
+    {
+        return View();
+    }
+    
+    [HttpPost]
+    public IActionResult Create(Item item)
+    {
+        if (ModelState.IsValid)
+        {
+            _itemDbContext.Items.Add(item);
+            _itemDbContext.SaveChanges();
+            return RedirectToAction(nameof(Table));
+        }
+
+        return View(item);
+    }
+
+    [HttpGet]
+    public IActionResult Update(int id)
+    {
+        var item = _itemDbContext.Items.Find(id);
+        if (item == null)
+        {
+            return NotFound();
+        }
+        return View(item);
+    }
+
+    [HttpPost]
+    public IActionResult Update(Item item)
+    {
+        if (ModelState.IsValid)
+        {
+            _itemDbContext.Items.Update(item);
+            _itemDbContext.SaveChanges();
+            return RedirectToAction(nameof(Table));
+        }
+
+        return View(item);
+    }
+
+    [HttpGet]
+    public IActionResult Delete(int id)
+    {
+        var item = _itemDbContext.Items.Find(id);
+        if (item == null)
+        {
+            return NotFound();
+        }
+        return View(item);
+    }
+
+    [HttpPost]
+    public IActionResult DeleteConfirmed(int id)
+    {
+        var item = _itemDbContext.Items.Find(id);
+        if (item == null)
+        {
+            return NotFound();
+        }
+        _itemDbContext.Items.Remove(item);
+        _itemDbContext.SaveChanges();
+        return RedirectToAction(nameof(Table));
+    }
+    
 }
+
     //public List<Item> GetItems()
     //{
     //    var items = new List<Item>();

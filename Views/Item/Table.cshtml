@@ -1,0 +1,10 @@
+@model ItemListViewModel
+
+@{
+    //Layout = null;
+}
+
+<h1>List of Shop Items (@Model.CurrentViewName View)</h1>
+<a href="/Item/Grid">Grid View</a>
+
+<partial name="_ItemTable" model="Model.Items" />

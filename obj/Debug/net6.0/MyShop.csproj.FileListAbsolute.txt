@@ -74,3 +74,9 @@
 /Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
 /Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/obj/Debug/net6.0/MyShop.csproj.CopyComplete
+/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/Humanizer.dll
+/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/System.CodeDom.dll
+/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/Castle.Core.dll
+/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll

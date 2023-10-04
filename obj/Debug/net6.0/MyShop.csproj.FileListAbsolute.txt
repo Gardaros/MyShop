@@ -80,3 +80,7 @@
 /Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/System.CodeDom.dll
 /Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/Castle.Core.dll
 /Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll

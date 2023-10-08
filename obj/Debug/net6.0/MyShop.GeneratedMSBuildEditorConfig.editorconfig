@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/Views/Customer/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -43,6 +47,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbS9VcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/Views/Order/CreateOrderItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvQ3JlYXRlT3JkZXJJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/Views/Order/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -51,12 +63,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DYXJvdXNlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/Views/Shared/_CustomerTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DdXN0b21lclRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/Views/Shared/_ItemCard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19JdGVtQ2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/Views/Shared/_ItemTable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19JdGVtVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/Views/Shared/_OrderItemTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19PcmRlckl0ZW1UYWJsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/gardulsund/Desktop/Programmering/RiderProsjekter/MyShop/Views/Shared/_ValidationScriptsPartial.cshtml]
